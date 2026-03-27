@@ -1,7 +1,7 @@
 def reverse_string(string:str):
   print("enter your string ")
   string =input()
-  string=string.split(" ")
+  string=string.split(" ") # splits a string 
   rev_str=""
   for i in string:
     rev_str += i[-1: :-1]+" "
