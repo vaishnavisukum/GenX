@@ -14,9 +14,9 @@ def main():
     q=multiprocessing.Queue()
     p1=multiprocessing.Process(target=add,args=(10,11,q))
     p2=multiprocessing.Process(target=pow,args=(q,))
-    p1.start()
     p2.start()
-    p1.join()
-    p2.join()
+    p1.start()
+    # p1.join() 
+    # p2.join()
 if __name__ == "__main__":
     main()
