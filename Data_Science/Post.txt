@@ -1,0 +1,3 @@
+in python for ML we need data for training ML model,
+ML algo. req. clean formatted data so today we used pandas library to load data set from csv file but in that data some entries where missing we have to fill those empty spaces because ML algo. accept those vacent spaces as 0,
+0 could fail the calculation and result poorly so we decided to use mean of that particular table to fill those vacent places in the particular column
