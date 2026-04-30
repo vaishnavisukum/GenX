@@ -1,0 +1,81 @@
+Employee_ID,Age,Experience,Department,Education,Gender,Monthly_Salary,Bonus,Working_Hours_Per_Week,Remote_Work,Job_Satisfaction,Performance_Score,Projects_Handled,Overtime_Hours,Sick_Leaves,Promotions,Marital_Status,City,Distance_From_Office,Last_Appraisal_Rating,Training_Hours,Attrition
+EMP1000,25,2 years,IT,Bachelors,Male,45000,5000,40,Yes,3,70,5,5,2,0,Single,Pune,5km,3,20,No
+EMP1001,38,10,HR,bachelor,F,85000,unknown,45,Y,4,80,8,10,1,1,Married,Mumbai,10 km,4,30,No
+EMP1002,29,,Finance,BSc,Male,60000,10000,50,No,2,60,6,,3,0,Single,Delhi,15km,2,10,Yes
+EMP1003,45,20 years,Sales,Masters,Female,120000,15000,60,N,5,90,10,20,0,2,Married,Bangalore,,5,40,No
+EMP1004,31,5,Marketing,,M,70000,,40,Yes,3,75,7,5,4,1,Single,Pune,10 km,3,20,Yes
+EMP1005,50,25 years,IT,PhD,Female,140000,15000,,No,4,95,12,20,2,2,Married,Mumbai,5km,5,40,No
+EMP1006,28,3 years,,Bachelors,M,50000,5000,45,Y,,70,4,5,6,0,Single,Delhi,15km,3,20,Yes
+EMP1007,35,12,Finance,Masters,Female,90000,10000,50,N,4,,9,10,3,1,Married,Bangalore,10 km,4,30,No
+EMP1008,41,15 years,Sales,BSc,Male,110000,,60,Yes,5,85,11,20,1,2,Married,Pune,,5,40,No
+EMP1009,27,1,,bachelor,F,40000,5000,40,Y,2,65,3,0,5,0,Single,Mumbai,5km,2,10,Yes
+EMP1010,33,8 years,IT,Bachelors,Male,75000,unknown,45,N,3,78,6,10,2,1,Married,Delhi,10 km,3,20,No
+EMP1011,48,,HR,Masters,Female,100000,15000,50,Yes,4,88,10,,1,2,Married,Bangalore,15km,4,30,No
+EMP1012,30,6,Finance,BSc,M,65000,10000,40,Y,3,72,5,5,4,1,Single,Pune,5km,3,20,Yes
+EMP1013,52,30 years,Sales,PhD,Female,150000,,60,N,5,98,14,20,0,3,Married,Mumbai,10 km,5,40,No
+EMP1014,26,2 years,Marketing,Bachelors,F,48000,5000,45,Yes,2,68,4,5,6,0,Single,Delhi,,2,10,Yes
+EMP1015,37,11,IT,bachelor,Male,88000,10000,50,Y,4,82,9,10,3,1,Married,Bangalore,15km,4,30,No
+EMP1016,44,18 years,Finance,Masters,Female,115000,15000,60,N,5,90,11,20,1,2,Married,Pune,5km,5,40,No
+EMP1017,29,,Sales,BSc,M,62000,,40,Yes,3,74,6,5,5,0,Single,Mumbai,10 km,3,20,Yes
+EMP1018,34,9 years,,Bachelors,Female,78000,unknown,45,N,4,80,8,10,2,1,Married,Delhi,15km,4,30,No
+EMP1019,39,14,Marketing,Masters,Male,95000,10000,50,Y,4,85,9,10,2,1,Married,Bangalore,,4,30,No
+EMP1020,42,16 years,IT,Bachelors,M,105000,15000,60,N,5,92,12,20,1,2,Married,Pune,5km,5,40,No
+EMP1021,24,1,HR,BSc,F,42000,,40,Y,2,60,2,0,7,0,Single,Mumbai,10 km,2,10,Yes
+EMP1022,36,13 years,Finance,Masters,Male,92000,10000,50,Yes,4,83,9,10,2,1,Married,Delhi,15km,4,30,No
+EMP1023,47,22 years,Sales,PhD,Female,130000,15000,60,N,5,96,13,20,1,2,Married,Bangalore,,5,40,No
+EMP1024,28,4 years,Marketing,Bachelors,M,58000,5000,45,Y,3,70,5,5,4,0,Single,Pune,5km,3,20,Yes
+EMP1025,31,,IT,bachelor,Female,72000,unknown,40,N,3,75,6,,3,1,Married,Mumbai,10 km,3,20,No
+EMP1026,40,15,Finance,Masters,M,98000,10000,50,Yes,4,88,10,10,2,1,Married,Delhi,15km,4,30,No
+EMP1027,45,20 years,Sales,BSc,F,120000,,60,N,5,91,11,20,1,2,Married,Bangalore,,5,40,No
+EMP1028,27,3 years,,Bachelors,Male,52000,5000,40,Y,2,67,4,5,6,0,Single,Pune,5km,2,10,Yes
+EMP1029,33,8,Marketing,Masters,Female,78000,10000,45,N,3,79,7,10,3,1,Married,Mumbai,10 km,3,20,No
+EMP1030,50,25 years,IT,PhD,Male,140000,15000,60,Yes,5,97,14,20,0,3,Married,Delhi,15km,5,40,No
+EMP1031,29,5 years,Finance,BSc,F,64000,,40,Y,3,72,6,5,5,0,Single,Bangalore,,3,20,Yes
+EMP1032,35,12,Sales,Bachelors,M,90000,10000,50,N,4,84,9,10,2,1,Married,Pune,5km,4,30,No
+EMP1033,41,17 years,Marketing,Masters,Female,110000,15000,60,Yes,5,90,11,20,1,2,Married,Mumbai,10 km,5,40,No
+EMP1034,26,2 years,IT,BSc,M,48000,5000,40,Y,2,65,3,0,6,0,Single,Delhi,15km,2,10,Yes
+EMP1035,38,14,Finance,Masters,Female,95000,10000,50,N,4,85,9,10,2,1,Married,Bangalore,,4,30,No
+EMP1036,44,18 years,Sales,PhD,M,120000,15000,60,Yes,5,93,12,20,1,2,Married,Pune,5km,5,40,No
+EMP1037,30,,Marketing,Bachelors,Female,70000,,45,Y,3,74,7,5,4,1,Single,Mumbai,10 km,3,20,Yes
+EMP1038,34,9 years,IT,bachelor,M,80000,unknown,50,N,4,80,8,10,3,1,Married,Delhi,15km,4,30,No
+EMP1039,48,22 years,Finance,Masters,Female,115000,15000,60,Yes,5,92,11,20,1,2,Married,Bangalore,,5,40,No
+EMP1040,32,7 years,IT,Bachelors,Male,72000,10000,45,Yes,3,78,6,10,2,1,Married,Pune,5km,3,20,No
+EMP1041,46,21,HR,Masters,Female,115000,15000,60,N,5,91,11,20,1,2,Married,Mumbai,10 km,5,40,No
+EMP1042,28,,Finance,BSc,M,58000,,40,Y,2,68,5,5,5,0,Single,Delhi,15km,2,10,Yes
+EMP1043,39,14 years,Sales,PhD,Female,98000,unknown,50,N,4,85,9,10,2,1,Married,Bangalore,,4,30,No
+EMP1044,27,3,Marketing,bachelor,M,52000,5000,40,Yes,3,70,4,5,6,0,Single,Pune,5km,3,20,Yes
+EMP1045,50,26 years,IT,PhD,Female,145000,15000,60,N,5,97,14,20,0,3,Married,Mumbai,10 km,5,40,No
+EMP1046,31,6 years,,Bachelors,Male,68000,10000,45,Y,3,74,6,,4,1,Single,Delhi,15km,3,20,Yes
+EMP1047,42,17,Finance,Masters,Female,108000,15000,50,N,4,88,10,10,2,1,Married,Bangalore,,4,30,No
+EMP1048,36,11 years,Sales,BSc,M,90000,,60,Yes,4,82,9,20,1,1,Married,Pune,5km,4,30,No
+EMP1049,25,1,,bachelor,F,42000,5000,40,Y,2,65,3,0,7,0,Single,Mumbai,10 km,2,10,Yes
+EMP1050,33,8,IT,Bachelors,Male,76000,unknown,45,N,3,79,7,10,2,1,Married,Delhi,15km,3,20,No
+EMP1051,48,,HR,Masters,Female,102000,15000,50,Yes,4,89,10,,1,2,Married,Bangalore,,4,30,No
+EMP1052,29,5 years,Finance,BSc,M,64000,10000,40,Y,3,72,5,5,4,1,Single,Pune,5km,3,20,Yes
+EMP1053,53,31 years,Sales,PhD,Female,152000,,60,N,5,99,14,20,0,3,Married,Mumbai,10 km,5,40,No
+EMP1054,26,2 years,Marketing,Bachelors,F,49000,5000,45,Yes,2,67,4,5,6,0,Single,Delhi,,2,10,Yes
+EMP1055,37,12,IT,bachelor,Male,89000,10000,50,Y,4,83,9,10,3,1,Married,Bangalore,15km,4,30,No
+EMP1056,44,18 years,Finance,Masters,Female,116000,15000,60,N,5,91,11,20,1,2,Married,Pune,5km,5,40,No
+EMP1057,30,,Sales,BSc,M,63000,,40,Yes,3,73,6,5,5,0,Single,Mumbai,10 km,3,20,Yes
+EMP1058,35,10 years,,Bachelors,Female,79000,unknown,45,N,4,81,8,10,2,1,Married,Delhi,15km,4,30,No
+EMP1059,41,16,Marketing,Masters,Male,97000,10000,50,Y,4,86,9,10,2,1,Married,Bangalore,,4,30,No
+EMP1060,43,17 years,IT,Bachelors,M,107000,15000,60,N,5,92,12,20,1,2,Married,Pune,5km,5,40,No
+EMP1061,24,1,HR,BSc,F,43000,,40,Y,2,61,2,0,7,0,Single,Mumbai,10 km,2,10,Yes
+EMP1062,36,13 years,Finance,Masters,Male,93000,10000,50,Yes,4,84,9,10,2,1,Married,Delhi,15km,4,30,No
+EMP1063,47,22 years,Sales,PhD,Female,131000,15000,60,N,5,96,13,20,1,2,Married,Bangalore,,5,40,No
+EMP1064,28,4 years,Marketing,Bachelors,M,59000,5000,45,Y,3,71,5,5,4,0,Single,Pune,5km,3,20,Yes
+EMP1065,31,,IT,bachelor,Female,73000,unknown,40,N,3,76,6,,3,1,Married,Mumbai,10 km,3,20,No
+EMP1066,40,15,Finance,Masters,M,99000,10000,50,Yes,4,87,10,10,2,1,Married,Delhi,15km,4,30,No
+EMP1067,45,20 years,Sales,BSc,F,121000,,60,N,5,92,11,20,1,2,Married,Bangalore,,5,40,No
+EMP1068,27,3 years,,Bachelors,Male,53000,5000,40,Y,2,66,4,5,6,0,Single,Pune,5km,2,10,Yes
+EMP1069,34,9,Marketing,Masters,Female,80000,10000,45,N,3,80,7,10,3,1,Married,Mumbai,10 km,3,20,No
+EMP1070,50,26 years,IT,PhD,Male,141000,15000,60,Yes,5,98,14,20,0,3,Married,Delhi,15km,5,40,No
+EMP1071,29,5 years,Finance,BSc,F,65000,,40,Y,3,73,6,5,5,0,Single,Bangalore,,3,20,Yes
+EMP1072,35,12,Sales,Bachelors,M,91000,10000,50,N,4,85,9,10,2,1,Married,Pune,5km,4,30,No
+EMP1073,41,17 years,Marketing,Masters,Female,111000,15000,60,Yes,5,91,11,20,1,2,Married,Mumbai,10 km,5,40,No
+EMP1074,26,2 years,IT,BSc,M,49000,5000,40,Y,2,64,3,0,6,0,Single,Delhi,15km,2,10,Yes
+EMP1075,38,14,Finance,Masters,Female,96000,10000,50,N,4,86,9,10,2,1,Married,Bangalore,,4,30,No
+EMP1076,44,18 years,Sales,PhD,M,122000,15000,60,Yes,5,94,12,20,1,2,Married,Pune,5km,5,40,No
+EMP1077,30,,Marketing,Bachelors,Female,71000,,45,Y,3,75,7,5,4,1,Single,Mumbai,10 km,3,20,Yes
+EMP1078,34,9 years,IT,bachelor,M,81000,unknown,50,N,4,81,8,10,3,1,Married,Delhi,15km,4,30,No
+EMP1079,48,22 years,Finance,Masters,Female,116000,15000,60,Yes,5,93,11,20,1,2,Married,Bangalore,,5,40,No
