@@ -1,0 +1,41 @@
+name,age,salary,city
+ John Doe,25,50000,mumbai
+john doe,25,50000,Mumbai
+ALICE,30,60000,DELHI
+Alice ,,60000,Delhi 
+Rohan,22,45000,pune
+rohan,22,45000,Pune
+Sara,28,70000,bangalore
+sara ,28,70000,Bangalore
+Mike,19,30000,mumbai 
+MIKE,19,30000,MUMBAI
+Anita,35,80000,delhi
+anita,35,80000,Delhi
+ Raj,-1,invalid,Pune
+Raj,40,90000,pune
+Priya,27,55000,Mumbai
+PRIYA,27,55000,mumbai
+Tom,31,65000,Delhi
+tom,31,65000,delhi
+Nina,0,40000,Bangalore
+nina ,29,40000,bangalore
+Vikram,150,100000,PUNE
+vikram,45,100000,pune
+Karan,26,52000,Mumbai
+karan,26,52000,mumbai
+Neha,24,,Delhi
+neha,24,48000,delhi
+Aman,,47000,pune
+aman ,23,47000,Pune
+Isha,21,51000,Mumbai
+isha,21,51000,mumbai
+Kabir,33,75000,Delhi
+kabir,33,75000,delhi
+Meera,29,62000,Bangalore
+meera,29,62000,bangalore
+Arjun,41,88000,Pune
+arjun,41,88000,pune
+,20,50000,mumbai
+None,,50000,
+   ,, ,Delhi
+Riya,18,,Mumbai
