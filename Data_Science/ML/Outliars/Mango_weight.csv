@@ -1,0 +1,16 @@
+Mango_ID,Age_on_Tree_Days,Weight_grams,Status
+M001,45,180,Unripe
+M002,60,250,Ready
+M003,72,310,Ready
+M004,85,340,Overripe
+M005,50,200,Unripe
+M006,68,295,Ready
+M007,90,360,Overripe
+M008,58,240,Ready
+M009,53,215,Unripe
+M010,66,275,Ready
+M011,78,325,Ready
+M012,88,355,Overripe
+M013,47,190,Unripe
+M014,63,260,Ready
+M015,82,335,Overripe
