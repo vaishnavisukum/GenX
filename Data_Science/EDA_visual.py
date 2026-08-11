@@ -46,7 +46,7 @@ def main():
 
     plt.figure(figsize=(15,10))
     plt.bar(state_name,state_count_percentage)
-    plt.xticks(rotation=90)
+    plt.xticks(rotation=45)
     plt.show()
     
     
